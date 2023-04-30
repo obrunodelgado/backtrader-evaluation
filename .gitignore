@@ -1,0 +1,8 @@
+_pycache_
+venv
+.idea
+*.png
+*.xlsx
+*.txt
+*.pyc
+*.iml
